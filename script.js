@@ -1,7 +1,7 @@
 let noClickCount = 0;
 
 const texts = [
-  "Really?", "Why?", "Are you sure?", "Don't be shy", "Think again", "Oh, C'mon", "Why you so stubborn??", "No?", "Still no?", "Why no?", "What a weirdo", "Tap yes plzz", "I'm telling you, just tap yes!", "Stop playing!", "Just tap YES", "TAP YES", "YES", "YES!", "YES!!"
+  "Really?", "Why?", "Are you sure?", "Don't lie", "Think again", "Oh, C'mon", "Why you so stubborn??", "No?", "Still no?", "Why no?", "What a weirdo", "Tap yes plzz", "I'm telling you, just tap yes!", "Stop playing!", "Just tap YES", "TAP YES", "YES", "YES!", "YES!!"
 ];
 
 const emojis = [
